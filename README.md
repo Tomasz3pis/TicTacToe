@@ -5,4 +5,4 @@ Want to play TicTacToe? Here you go :)
 Practise console application where you can play you favourite game.
 
 ## Technology
-*Java 8
+* Java 8
