@@ -1,8 +1,8 @@
-# TicTacToe
+## TicTacToe
 Want to play TicTacToe? Here you go :)
 
-#General info
+# General info
 Practise console application where you can play you favourite game.
 
-#Technology
+# Technology
 *Java 8
